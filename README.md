@@ -1,6 +1,4 @@
-
-
-![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=VIKALP%20SINGH&text2=💖%20A%20Passionate%20Coder,Developer%20and%20Debugger&width=900&height=400)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=Vikalp-singh&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
